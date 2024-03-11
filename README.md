@@ -4,11 +4,6 @@ Real-time Uses and Applications:
   - Enables real-time monitoring of waste levels, optimizing collection routes and schedules for efficient waste management.
   - Enhances data-driven decision-making, contributing to cost savings, reduced environmental impact, and sustainable waste practices.
 
-Implementation Guidelines:
-  - Utilized Raspberry Pi, IR sensors, servo motors, and Firebase for real-time data collection, storage, and analysis.
-  - Integrated IoT principles, ensuring effective communication between smart bins and the central server.
-  - Implemented a servo motor mechanism for lid control, promoting seamless user interaction.
-
 Workspace Setup:Requires Raspberry Pi with GPIO configurations, sensors, and servo motors. Firebase account for database management. Python script for data processing and IoT implementation.
 
 Benefits of Real-time Implementation:
@@ -16,3 +11,5 @@ Benefits of Real-time Implementation:
   - Data-driven insights improve waste management decision-making, contributing to resource efficiency and sustainability.
   - Proactive maintenance ensures timely bin servicing, preventing littering and promoting a cleaner environment.
   - User engagement through additional features like mobile apps fosters responsible waste disposal and community satisfaction.
+
+![image](https://github.com/pediredlaSuman/-IOT-Based-Efficient-Waste-Collection-System.-/assets/141764451/4efba108-bc1b-4531-b2c0-1e8082a656ba)
